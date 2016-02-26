@@ -1,0 +1,17 @@
+node_modules/
+typings/
+
+*-build/
+build/
+
+*.local.*
+*-local
+local/
+
+*.out
+*.log
+*.tgz
+
+.idea/
+.vscode/
+!.vscode/launch.json

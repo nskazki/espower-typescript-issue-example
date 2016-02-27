@@ -1,5 +1,5 @@
 import Calculator from '../src'
-import * as assert from 'assert'
+import assert = require('power-assert')
 
 describe('Calculator', () => {
   let subject: Calculator

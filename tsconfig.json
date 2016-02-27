@@ -3,18 +3,9 @@
     "module": "commonjs",
     "target": "es5",
     "moduleResolution": "node",
-    "listFiles": true,
     "outDir": "build",
-    "newLine": "LF",
     "sourceMap": true,
-    "declaration": true,
-    "removeComments": false,
-    "noLib": false,
     "noImplicitAny": true,
-    "isolatedModules": false,
-    "preserveConstEnums": true,
-    "emitDecoratorMetadata": true,
-    "experimentalDecorators": true,
     "suppressImplicitAnyIndexErrors": false
   },
   "files": [

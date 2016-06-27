@@ -1,4 +1,4 @@
-import Calculator from '../src'
+import Calculator from '../../src/app'
 import assert = require('power-assert')
 
 describe('Calculator', () => {

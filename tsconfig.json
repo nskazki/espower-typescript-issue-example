@@ -1,16 +1,8 @@
 {
   "compilerOptions": {
     "module": "commonjs",
-    "target": "es5",
-    "moduleResolution": "node",
-    "outDir": "build",
-    "sourceMap": true,
-    "noImplicitAny": true,
-    "suppressImplicitAnyIndexErrors": false
-  },
-  "files": [
-    "src/index.ts",
-    "test/index.test.ts",
-    "typings/main.d.ts"
-  ]
+    "target": "es6",
+    "noImplicitAny": false,
+    "sourceMap": false
+  }
 }
